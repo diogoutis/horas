@@ -1,0 +1,134 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+            border-radius: 8px;
+        }
+
+        .container h1 {
+            text-align: center;
+        }
+
+        .container .hms {
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+        }
+
+        #horas {
+            position: relative;
+            left: 47px;
+        }
+
+        #minutos {
+            position: relative;
+            left: 38px;
+        }
+
+        #segundos {
+            position: relative;
+            left: 7px;
+        }
+
+        input, button {
+            padding: 10px;
+            margin: 5px 0;
+            font-size: 16px;
+            width: 30%;
+            text-align: center;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .meta {
+            margin-top: 10px;
+            font-size: 16px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .extra-hours {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .day-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .day-container input {
+            width: 24%;
+            margin-right: 10px;
+            border-width: 1px;
+            border-radius: 10px;
+        }
+
+        .day-container h3 {
+            margin: 0 10px 0 0;
+            font-size: 16px;
+            width: 60px;
+        }
+
+        .label {
+            width: 100%;
+            text-align: center;
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+
+        .arrow-btn {
+            width: 0px;
+            background: none;
+            border: none;
+            font-size: 20px;
+            cursor: pointer;
+            margin-left: 1px;
+            transition: transform 0.2s;
+            color: #4CAF50;
+            outline: none;
+            padding: 0;
+        }
+
+        .arrow-btn:hover {
+            color: #388E3C;
+        }
+
+
+        #floatingContent {
+            position: absolute;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            z-index: 999;
+            display: none;
+            border-radius: 8px;
+            max-width: 320px;
+        }
