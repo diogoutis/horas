@@ -5,7 +5,7 @@
             [9, 1, 37], [3, 59, 58], [4, 24, 43], [, , ], [, , ],
             [8, 27, 42], [7, 53, 39], [7, 56, 43], [6, 3, 2], [5, 32,21], [, ,],
             [9, 17, 55], [10, 0,45], [9, 25, 48], [10, 25, 28], [6, 11,15],
-            [, ,], [, ,], [9, 4, 47], [9, 47, 18], [, ,], [, ,], [, ,],
+            [, ,], [, ,], [9, 4, 47], [9, 47, 18], [7, 44,45], [, ,], [, ,],
             [, ,], [, ,], [, ,], [, ,], [, ,],
             [, ,], [, ,], [, ,], [, ,], [, ,],
             [, ,]  // Dia 31
@@ -99,7 +99,7 @@
                 <p style="margin-bottom: 0px"><a href="https://kick.com/luanz7/videos/62365380-20ce-419b-9307-f28b4d496025" target="_blank">SEGUNDA ANIMADA | !clash !alfabet Siga @LUANZ7 nas redes sociais </a></p>`,
             20: `<a href="https://kick.com/luanz7/videos/07a8af2a-d8a0-4c9d-ae96-b3caac224577" target="_blank">DIA DE INVASAO| !clash !alfabet Siga @LUANZ7 nas redes sociais </a> <br>
                 <p style="margin-bottom: 0px"><a href="https://kick.com/luanz7/videos/e87d470f-1fef-45b9-872a-6e35c4dcec4f" target="_blank">DIA DE INVASAO | Siga @LUANZ7 nas redes sociais </a></p>`,
-            21: '<a href="" target="_blank"></a>',
+            21: '<a href="https://kick.com/luanz7/videos/de623443-b6bc-48b4-b813-e0e55f998118" target="_blank">DIA DE INVASAO | Siga @LUANZ7 nas redes sociais</a>',
             22: '<a href="" target="_blank"></a>',
             23: '<a href="" target="_blank"></a>',
             24: '<a href="" target="_blank"></a>',
