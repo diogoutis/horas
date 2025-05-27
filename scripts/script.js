@@ -6,7 +6,7 @@
             [8, 27, 42], [7, 53, 39], [7, 56, 43], [6, 3, 2], [5, 32,21], [, ,],
             [9, 17, 55], [10, 0,45], [9, 25, 48], [10, 25, 28], [6, 11,15],
             [, ,], [, ,], [9, 4, 47], [9, 47, 18], [7, 44,45], [10, 29,12], [, ,],
-            [6, 13,28], [3, 24,55], [, ,], [, ,], [, ,],
+            [6, 13,28], [3, 24,55], [9, 55,51], [, ,], [, ,],
             [, ,], [, ,], [, ,], [, ,], [, ,],
             [, ,]  // Dia 31
         ];
@@ -104,7 +104,7 @@
             23: '<a href="" target="_blank"></a>',
             24: '<a href="https://kick.com/luanz7/videos/053edd2e-8360-4fb0-90c0-70cf24ca379f" target="_blank">QUALIFY GOAT | Siga @LUANZ7 nas redes sociais </a>',
             25: '<a href="https://kick.com/luanz7/videos/fe2c2097-7f6b-4e87-a2a6-b323fdbeff7b" target="_blank">DOMINGAO | Siga @LUANZ7 nas redes sociais </a>',
-            26: '<a href="" target="_blank"></a>',
+            26: '<a href="https://kick.com/luanz7/videos/007c2ddf-cc43-44c5-b621-514004d95345" target="_blank">SEGUNDA CRUEL | Siga @LUANZ7 nas redes sociais </a>',
             27: '<a href="" target="_blank"></a>',
             28: '<a href="" target="_blank"></a>',
             29: '<a href="" target="_blank"></a>',
