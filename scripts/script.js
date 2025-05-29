@@ -6,7 +6,7 @@
             [8, 27, 42], [7, 53, 39], [7, 56, 43], [6, 3, 2], [5, 32,21], [, ,],
             [9, 17, 55], [10, 0,45], [9, 25, 48], [10, 25, 28], [6, 11,15],
             [, ,], [, ,], [9, 4, 47], [9, 47, 18], [7, 44,45], [10, 29,12], [, ,],
-            [6, 13,28], [3, 24,55], [9, 55,51], [9, 33,25], [, ,],
+            [6, 13,28], [3, 24,55], [9, 55,51], [9, 33,25], [8, 30,57],
             [, ,], [, ,], [, ,], [, ,], [, ,],
             [, ,]  // Dia 31
         ];
@@ -106,7 +106,7 @@
             25: '<a href="https://kick.com/luanz7/videos/fe2c2097-7f6b-4e87-a2a6-b323fdbeff7b" target="_blank">DOMINGAO | Siga @LUANZ7 nas redes sociais </a>',
             26: '<a href="https://kick.com/luanz7/videos/007c2ddf-cc43-44c5-b621-514004d95345" target="_blank">SEGUNDA CRUEL | Siga @LUANZ7 nas redes sociais </a>',
             27: '<a href="https://kick.com/luanz7/videos/661f162b-c55c-4f71-82d4-b644f88b3e88" target="_blank">OQUE TEREMOS PARA HOJE ? | Siga @LUANZ7 nas redes sociais</a>',
-            28: '<a href="" target="_blank"></a>',
+            28: '<a href="https://kick.com/luanz7/videos/1f2f26b0-ab5f-4c9e-bdb2-a911aa877b9a" target="_blank">OQUE TEREMOS PARA HOJE ? | Siga @LUANZ7 nas redes sociais</a>',
             29: '<a href="" target="_blank"></a>',
             30: '<a href="" target="_blank"></a>',
             31: '<a href="" target="_blank"></a>',
