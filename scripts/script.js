@@ -7,7 +7,7 @@
             [9, 17, 55], [10, 0,45], [9, 25, 48], [10, 25, 28], [6, 11,15],
             [, ,], [, ,], [9, 4, 47], [9, 47, 18], [7, 44,45], [10, 29,12], [, ,],
             [6, 13,28], [3, 24,55], [9, 55,51], [9, 33,25], [8, 30,57],
-            [9, 24,57], [, ,], [, ,], [, ,], [, ,],
+            [9, 24,57], [10, 3, 30], [, ,], [, ,], [, ,],
             [, ,]  // Dia 31
         ];
 
@@ -108,7 +108,7 @@
             27: '<a href="https://kick.com/luanz7/videos/661f162b-c55c-4f71-82d4-b644f88b3e88" target="_blank">OQUE TEREMOS PARA HOJE ? | Siga @LUANZ7 nas redes sociais</a>',
             28: '<a href="https://kick.com/luanz7/videos/1f2f26b0-ab5f-4c9e-bdb2-a911aa877b9a" target="_blank">OQUE TEREMOS PARA HOJE ? | Siga @LUANZ7 nas redes sociais</a>',
             29: '<a href="https://kick.com/luanz7/videos/2d6610b1-db02-42a7-b019-80a668336a29" target="_blank">DEVENDO HORA | Siga @LUANZ7 nas redes sociais </a>',
-            30: '<a href="" target="_blank"></a>',
+            30: '<a href="https://kick.com/luanz7/videos/2c0d41b1-b997-4e02-a763-e7dc3f96abfa" target="_blank">DIA DE GUERRA | Siga @LUANZ7 nas redes sociais</a>',
             31: '<a href="" target="_blank"></a>',
         };
 
